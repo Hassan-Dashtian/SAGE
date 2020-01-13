@@ -4,14 +4,15 @@ A python code to get the number of orbital launches in the 'Orbital launches' ta
 in an automated way.
 
 ## Run
-
-run: 
+ 
 ```
 python3 SAGE.py
 ```
 
 ## Output
 
-file: 'sagef.csv'
+```
+sagef.csv
+```
 
 
