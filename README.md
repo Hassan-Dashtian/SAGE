@@ -5,10 +5,10 @@ in an automated way.
 
 ## Run
 
-`python3 SAGE.py'
+run: `python3 SAGE.py'
 
 ## Output
 
-`sagef.csv' file
+file: `sagef.csv' file
 
 
